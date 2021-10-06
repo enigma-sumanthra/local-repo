@@ -1,2 +1,0 @@
-# goals
-learn from nalin
